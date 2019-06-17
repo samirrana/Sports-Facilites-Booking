@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">sportszillia</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string-array name="FacilitySelect">
+        <item>Football Field A</item>
+        <item>Football Field B</item>
+        <item>Tennis Court</item>
+        <item>BasketBall Court</item>
+        <item>Multipurpose Court</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>8AM</item>
+        <item>9AM</item>
+        <item>10AM</item>
+        <item>11AM</item>
+        <item>12PM</item>
+        <item>1PM</item>
+        <item>2PM</item>
+        <item>3PM</item>
+        <item>4PM</item>
+        <item>5PM</item>
+        <item>6PM</item>
+        <item>7PM</item>
+        <item>8PM</item>
+    </string-array>
+
+    <string-array name="Duration">
+        <item>1 Hour</item>
+        <item>1.5 Hours</item>
+        <item>2 Hours</item>
+    </string-array>
+
+</resources>

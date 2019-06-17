@@ -1,0 +1,4 @@
+#Mon Jun 17 16:55:18 SGT 2019
+base.0=C\:\\Users\\Shawn\\AndroidStudioProjects\\sportszillia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
